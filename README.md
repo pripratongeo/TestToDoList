@@ -5,4 +5,4 @@
 
 ## Ejecución de la aplicación
 1. Ejecuta el archivo "AplicaciónDeConsola.exe" desde la consola/directorio o directamente desde Visual Studio.
-2. Sigue las instrucciones en pantalla para gestionar tus tareas.# TestToDoList
+2. Sigue las instrucciones en pantalla para gestionar tus tareas.

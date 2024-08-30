@@ -1,0 +1,14 @@
+C:\Users\FamiliaHuesoMendoza\source\repos\AplicaciónDeConsola\AplicaciónDeConsola\bin\Debug\net8.0\AplicaciónDeConsola.exe
+C:\Users\FamiliaHuesoMendoza\source\repos\AplicaciónDeConsola\AplicaciónDeConsola\bin\Debug\net8.0\AplicaciónDeConsola.deps.json
+C:\Users\FamiliaHuesoMendoza\source\repos\AplicaciónDeConsola\AplicaciónDeConsola\bin\Debug\net8.0\AplicaciónDeConsola.runtimeconfig.json
+C:\Users\FamiliaHuesoMendoza\source\repos\AplicaciónDeConsola\AplicaciónDeConsola\bin\Debug\net8.0\AplicaciónDeConsola.dll
+C:\Users\FamiliaHuesoMendoza\source\repos\AplicaciónDeConsola\AplicaciónDeConsola\bin\Debug\net8.0\AplicaciónDeConsola.pdb
+C:\Users\FamiliaHuesoMendoza\source\repos\AplicaciónDeConsola\AplicaciónDeConsola\obj\Debug\net8.0\AplicaciónDeConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FamiliaHuesoMendoza\source\repos\AplicaciónDeConsola\AplicaciónDeConsola\obj\Debug\net8.0\AplicaciónDeConsola.AssemblyInfoInputs.cache
+C:\Users\FamiliaHuesoMendoza\source\repos\AplicaciónDeConsola\AplicaciónDeConsola\obj\Debug\net8.0\AplicaciónDeConsola.AssemblyInfo.cs
+C:\Users\FamiliaHuesoMendoza\source\repos\AplicaciónDeConsola\AplicaciónDeConsola\obj\Debug\net8.0\AplicaciónDeConsola.csproj.CoreCompileInputs.cache
+C:\Users\FamiliaHuesoMendoza\source\repos\AplicaciónDeConsola\AplicaciónDeConsola\obj\Debug\net8.0\AplicaciónDeConsola.dll
+C:\Users\FamiliaHuesoMendoza\source\repos\AplicaciónDeConsola\AplicaciónDeConsola\obj\Debug\net8.0\refint\AplicaciónDeConsola.dll
+C:\Users\FamiliaHuesoMendoza\source\repos\AplicaciónDeConsola\AplicaciónDeConsola\obj\Debug\net8.0\AplicaciónDeConsola.pdb
+C:\Users\FamiliaHuesoMendoza\source\repos\AplicaciónDeConsola\AplicaciónDeConsola\obj\Debug\net8.0\AplicaciónDeConsola.genruntimeconfig.cache
+C:\Users\FamiliaHuesoMendoza\source\repos\AplicaciónDeConsola\AplicaciónDeConsola\obj\Debug\net8.0\ref\AplicaciónDeConsola.dll
